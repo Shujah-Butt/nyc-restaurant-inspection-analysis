@@ -1,0 +1,48 @@
+RAW SHAPE: 1000 rows x 27 cols
+COLUMNS: ['camis', 'dba', 'boro', 'building', 'street', 'zipcode', 'phone', 'cuisine_description', 'inspection_date', 'action', 'violation_code', 'violation_description', 'critical_flag', 'score', 'grade', 'grade_date', 'record_date', 'inspection_type', 'latitude', 'longitude', 'community_board', 'council_district', 'census_tract', 'bin', 'bbl', 'nta', 'location']
+
+SENTINEL inspection_date=1900-01-01 (not yet inspected): 781 rows
+Placeholder 'N/A'/'0' in zipcode: 4
+Placeholder 'N/A'/'0' in building: 6
+Placeholder 'N/A'/'0' in street: 4
+Placeholder 'N/A'/'0' in boro: 7
+Invalid/missing (0,0) geocoordinates: 147
+Coordinates outside NYC bounding box: 0
+Boro values: {'Manhattan': 424, 'Queens': 229, 'Brooklyn': 228, 'Bronx': 81, 'Staten Island': 31, nan: 7}
+Unexpected grade values: 0 (<StringArray>
+[]
+Length: 0, dtype: str)
+
+Exact duplicate rows: 0
+Duplicate (camis, inspection_date, violation_code) rows: 0
+
+INSPECTION-LEVEL FRAME: 212 unique inspections of 195 establishments
+Date range of inspections: 2016-02-14 00:00:00 -> 2025-10-15 00:00:00
+Inspections with numeric score: 180
+
+MISSINGNESS (violation-level, % of rows):
+grade_date               92.1
+grade                    91.8
+violation_code           84.4
+violation_description    84.4
+score                    81.4
+action                   78.1
+inspection_year          78.1
+inspection_type          78.1
+inspection_date          78.1
+bin                      16.1
+council_district         15.1
+community_board          15.1
+nta                      15.1
+census_tract             15.1
+longitude                14.7
+location                 14.7
+latitude                 14.7
+zipcode                  11.7
+bbl                       3.8
+building                  2.3
+boro                      0.7
+street                    0.4
+phone                     0.1
+
+Saved: cleaned_violations.csv ((1000, 30)), cleaned_inspections.csv ((212, 15))

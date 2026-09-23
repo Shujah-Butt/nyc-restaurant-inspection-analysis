@@ -1,0 +1,342 @@
+{
+ "descriptives_overall": {
+  "n_inspections": 212,
+  "n_establishments": 195,
+  "n_scored": 180,
+  "date_min": "2016-02-14",
+  "date_max": "2025-10-15",
+  "score_mean": 19.04,
+  "score_sd": 17.06,
+  "score_median": 15.0,
+  "score_iqr": [
+   6.75,
+   28.0
+  ],
+  "score_min": 0.0,
+  "score_max": 82.0,
+  "score_skew": 1.14,
+  "score_kurtosis": 1.641,
+  "pct_grade_A_of_graded": 62.5,
+  "pct_with_critical_violation": 45.8,
+  "pct_violations_cited": 69.8
+ },
+ "descriptives_by_boro": {
+  "Bronx": {
+   "count": 23,
+   "mean": 22.13,
+   "std": 14.78,
+   "median": 24.0,
+   "min": 0.0,
+   "max": 50.0,
+   "ci95_mean": 6.04
+  },
+  "Brooklyn": {
+   "count": 33,
+   "mean": 16.82,
+   "std": 14.31,
+   "median": 13.0,
+   "min": 0.0,
+   "max": 51.0,
+   "ci95_mean": 4.88
+  },
+  "Manhattan": {
+   "count": 79,
+   "mean": 16.89,
+   "std": 17.02,
+   "median": 13.0,
+   "min": 0.0,
+   "max": 82.0,
+   "ci95_mean": 3.75
+  },
+  "Queens": {
+   "count": 40,
+   "mean": 24.58,
+   "std": 19.79,
+   "median": 23.5,
+   "min": 0.0,
+   "max": 78.0,
+   "ci95_mean": 6.13
+  },
+  "Staten Island": {
+   "count": 5,
+   "mean": 9.4,
+   "std": 10.71,
+   "median": 9.0,
+   "min": 0.0,
+   "max": 26.0,
+   "ci95_mean": 9.39
+  }
+ },
+ "grade_mix_by_boro": {
+  "Bronx": {
+   "A": 5,
+   "B": 2,
+   "C": 2,
+   "N": 0,
+   "P": 0,
+   "Z": 0
+  },
+  "Brooklyn": {
+   "A": 11,
+   "B": 1,
+   "C": 1,
+   "N": 0,
+   "P": 0,
+   "Z": 3
+  },
+  "Manhattan": {
+   "A": 24,
+   "B": 2,
+   "C": 3,
+   "N": 2,
+   "P": 2,
+   "Z": 2
+  },
+  "Queens": {
+   "A": 8,
+   "B": 5,
+   "C": 3,
+   "N": 1,
+   "P": 0,
+   "Z": 1
+  },
+  "Staten Island": {
+   "A": 2,
+   "B": 0,
+   "C": 0,
+   "N": 0,
+   "P": 0,
+   "Z": 0
+  }
+ },
+ "descriptives_by_cuisine": {
+  "Chinese": {
+   "count": 16,
+   "mean": 29.75,
+   "std": 22.89,
+   "median": 27.0
+  },
+  "Spanish": {
+   "count": 5,
+   "mean": 29.6,
+   "std": 4.88,
+   "median": 27.0
+  },
+  "Latin American": {
+   "count": 12,
+   "mean": 27.83,
+   "std": 10.21,
+   "median": 28.0
+  },
+  "Caribbean": {
+   "count": 8,
+   "mean": 19.88,
+   "std": 17.26,
+   "median": 22.0
+  },
+  "Mexican": {
+   "count": 6,
+   "mean": 19.0,
+   "std": 18.01,
+   "median": 20.0
+  },
+  "Japanese": {
+   "count": 6,
+   "mean": 18.17,
+   "std": 11.96,
+   "median": 18.0
+  },
+  "Italian": {
+   "count": 10,
+   "mean": 17.4,
+   "std": 12.06,
+   "median": 13.0
+  },
+  "Pizza": {
+   "count": 20,
+   "mean": 16.3,
+   "std": 14.85,
+   "median": 16.5
+  },
+  "Asian/Asian Fusion": {
+   "count": 5,
+   "mean": 12.6,
+   "std": 12.68,
+   "median": 13.0
+  },
+  "Chicken": {
+   "count": 8,
+   "mean": 12.0,
+   "std": 16.41,
+   "median": 10.5
+  },
+  "American": {
+   "count": 20,
+   "mean": 11.75,
+   "std": 16.45,
+   "median": 10.5
+  },
+  "Coffee/Tea": {
+   "count": 6,
+   "mean": 2.0,
+   "std": 4.9,
+   "median": 0.0
+  }
+ },
+ "descriptives_by_year": {
+  "2022.0": {
+   "count": 30,
+   "mean": 17.87,
+   "median": 14.5
+  },
+  "2023.0": {
+   "count": 37,
+   "mean": 23.49,
+   "median": 23.0
+  },
+  "2024.0": {
+   "count": 48,
+   "mean": 19.54,
+   "median": 13.0
+  },
+  "2025.0": {
+   "count": 59,
+   "mean": 16.14,
+   "median": 12.0
+  }
+ },
+ "assumptions": {
+  "shapiro_overall": {
+   "W": 0.8939,
+   "p": 4.960687533148329e-10
+  },
+  "shapiro_by_boro": {
+   "Bronx": {
+    "n": 23,
+    "W": 0.9563,
+    "p": 0.39279767492839407
+   },
+   "Brooklyn": {
+    "n": 33,
+    "W": 0.9085,
+    "p": 0.008910830262744722
+   },
+   "Manhattan": {
+    "n": 79,
+    "W": 0.8388,
+    "p": 8.031390144531039e-08
+   },
+   "Queens": {
+    "n": 40,
+    "W": 0.909,
+    "p": 0.003541003534293686
+   }
+  },
+  "levene_by_boro": {
+   "W": 0.7206,
+   "p": 0.5789007790413381
+  }
+ },
+ "hypothesis_tests": {
+  "H1_boro_KW": {
+   "H": 9.423,
+   "p": 0.051358549360903276,
+   "epsilon_squared": 0.031,
+   "ANOVA_F": 2.148,
+   "ANOVA_p": 0.07682953670072222,
+   "k_groups": 5
+  },
+  "H2_initial_vs_reinspection_MW": {
+   "n_initial": 111,
+   "n_re": 34,
+   "median_initial": 19.0,
+   "median_re": 18.5,
+   "U": 1669.5,
+   "p": 0.310002131648465,
+   "rank_biserial_r": 0.115
+  },
+  "H3_critical_by_boro_chi2": {
+   "chi2": 1.253,
+   "p": 0.7402659867478978,
+   "dof": 3,
+   "cramers_v": 0.078,
+   "expected_cells_below_5": 0,
+   "table": {
+    "Bronx": {
+     "false": 13,
+     "true": 13
+    },
+    "Brooklyn": {
+     "false": 24,
+     "true": 15
+    },
+    "Manhattan": {
+     "false": 50,
+     "true": 41
+    },
+    "Queens": {
+     "false": 26,
+     "true": 25
+    }
+   }
+  },
+  "H4_critical_by_cuisine_chi2": {
+   "chi2": 10.131,
+   "p": 0.33998783970800833,
+   "dof": 9,
+   "cramers_v": 0.273,
+   "expected_cells_below_5": 7,
+   "table": {
+    "American": {
+     "false": 16,
+     "true": 8
+    },
+    "Asian/Asian Fusion": {
+     "false": 7,
+     "true": 3
+    },
+    "Caribbean": {
+     "false": 8,
+     "true": 3
+    },
+    "Chicken": {
+     "false": 5,
+     "true": 4
+    },
+    "Chinese": {
+     "false": 9,
+     "true": 10
+    },
+    "Coffee/Tea": {
+     "false": 9,
+     "true": 1
+    },
+    "Italian": {
+     "false": 4,
+     "true": 6
+    },
+    "Latin American": {
+     "false": 7,
+     "true": 7
+    },
+    "Mexican": {
+     "false": 5,
+     "true": 3
+    },
+    "Pizza": {
+     "false": 10,
+     "true": 11
+    }
+   }
+  },
+  "H5_score_year_spearman": {
+   "rho": -0.125,
+   "p": 0.10096833844495957,
+   "n": 174
+  },
+  "H6_ncrit_vs_score_spearman": {
+   "rho": 0.463,
+   "p": 5.83569146590363e-11
+  }
+ }
+}

@@ -1,0 +1,213 @@
+camis,inspection_date,dba,boro,cuisine,zipcode,score,grade,action,inspection_type,latitude,longitude,n_violations,n_critical,year
+40365726,2022-10-26,BARBETTA,Manhattan,Italian,,21.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2022.0
+40365882,2023-01-26,NEW YORK PIZZA SUPREMA,Manhattan,Pizza,10001.0,31.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.750031951553,-73.995040989424,1,0,2023.0
+40380164,2024-03-22,CUCHIFRITOS,Bronx,Spanish,,32.0,C,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,,,2,2,2024.0
+40380164,2024-07-29,CUCHIFRITOS,Bronx,Spanish,,,,No violations were recorded at the time of this inspection.,Administrative Miscellaneous / Initial Inspection,,,0,0,2024.0
+40387418,2023-04-03,TAL BAGELS DELI,Manhattan,Bagels/Pretzels,,14.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2023.0
+40392872,2025-07-14,MOLLY'S,Manhattan,Irish,10010.0,,,No violations were recorded at the time of this inspection.,Administrative Miscellaneous / Initial Inspection,40.738373862011,-73.983465650986,0,0,2025.0
+40396622,2025-06-27,MEDITERRANEO,Manhattan,Italian,10065.0,0.0,Z,Establishment re-opened by DOHMH.,Cycle Inspection / Reopening Inspection,40.765072225292,-73.961069799916,0,0,2025.0
+40399422,2025-07-01,PIZZA CHEF,Queens,Pizza,11357.0,,,Violations were cited in the following area(s).,Administrative Miscellaneous / Initial Inspection,40.786929015003,-73.808328935438,1,0,2025.0
+40403419,2023-10-03,AIR INDIA LOUNGE,Queens,Indian,,23.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2023.0
+40536414,2023-03-21,LA CABANA,Brooklyn,Latin American,,31.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2023.0
+40536414,2024-11-14,LA CABANA,Brooklyn,Latin American,,31.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2024.0
+40550765,2025-08-19,ARETSKY'S PATROON,Manhattan,American,,11.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2025.0
+40557901,2022-09-12,LA ISLA CUCHIFRITOS,Bronx,Latin American,,31.0,C,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,,,1,1,2022.0
+40557901,2023-05-17,LA ISLA CUCHIFRITOS,Bronx,Latin American,,,,No violations were recorded at the time of this inspection.,Administrative Miscellaneous / Initial Inspection,,,0,0,2023.0
+40659101,2025-09-25,LUCKY HOUSE CHINESE KITCHEN,Brooklyn,Chinese,,0.0,Z,Establishment re-opened by DOHMH.,Cycle Inspection / Reopening Inspection,,,0,0,2025.0
+40667358,2021-07-22,COPPOLA'S,Manhattan,Italian,10016.0,37.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.741535477197,-73.981180546098,1,1,2021.0
+40730140,2024-04-04,ESTELLE,Brooklyn,American,11229.0,,,No violations were recorded at the time of this inspection.,Smoke-Free Air Act / Initial Inspection,40.599164162747,-73.953244724829,0,0,2024.0
+40741728,2023-05-02,WALLSE,Manhattan,German,,18.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2023.0
+40825908,2022-02-09,POLANCO RESTAURANT BBQ,Manhattan,Latin American,,20.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,2,1,2022.0
+40837042,2025-04-16,MALECON RESTAURANT,Bronx,Latin American,,13.0,A,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,,,1,0,2025.0
+40868400,2023-03-21,ARIANA KEBAB HOUSE,Manhattan,Afghan,10019.0,6.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.764993098016,-73.987855987299,1,0,2023.0
+40942342,2022-03-09,LARRY FLYNT'S HUSTLER CLUB,Manhattan,American,,10.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2022.0
+40960698,2023-01-23,SCORPION,Queens,Latin American,11372.0,31.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.746952100486,-73.890253570596,1,1,2023.0
+41004767,2025-07-15,SUBWAY,Queens,Sandwiches,,10.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2025.0
+41010433,2019-11-08,LONDEL'S SUPPER CLUB,Manhattan,American,,12.0,A,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,,,1,1,2019.0
+41026640,2022-09-23,MEZE,Brooklyn,Greek,11219.0,0.0,A,No violations were recorded at the time of this inspection.,Cycle Inspection / Re-inspection,40.625284831779,-74.002226287013,0,0,2022.0
+41032752,2022-08-18,DONS BOGAM,Manhattan,Korean,,12.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,0,2022.0
+41032752,2024-01-31,DONS BOGAM,Manhattan,Korean,,28.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2024.0
+41056159,2022-03-31,LA MASSERIA,Manhattan,Italian,10036.0,14.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.760469484393,-73.985665699545,1,1,2022.0
+41131002,2022-03-31,TANGRA,Queens,Asian/Asian Fusion,,22.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2022.0
+41194745,2023-05-10,GOLDEN PALACE GOURMET,Queens,Chinese,,34.0,C,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,,,2,2,2023.0
+41194745,2024-12-09,GOLDEN PALACE GOURMET,Queens,Chinese,,28.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,2,2,2024.0
+41194745,2025-07-09,GOLDEN PALACE GOURMET,Queens,Chinese,,,,Violations were cited in the following area(s).,Administrative Miscellaneous / Initial Inspection,,,1,0,2025.0
+41195033,2023-10-16,SARKU JAPAN,Queens,Japanese,11373.0,34.0,C,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,40.733840182011,-73.871577033806,1,1,2023.0
+41244032,2022-06-23,ESTRELLITA POBLANA # 1,Bronx,Mexican,,0.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2022.0
+41248866,2024-09-12,BARAKA BUFFET,Manhattan,African,,32.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,2,1,2024.0
+41267879,2022-04-22,PIER I CAFE,Manhattan,American,,10.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,0,2022.0
+41276645,2025-07-22,ECUATORIANA RESTAURANT,Manhattan,Spanish,,27.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2025.0
+41305723,2025-02-19,CANNELLE PATISSERIE,Bronx,French,,10.0,A,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,,,1,1,2025.0
+41344229,2025-03-26,GRACE PIZZA,Queens,Pizza,11385.0,23.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.701936801325,-73.880907607862,1,1,2025.0
+41350171,2025-08-04,"BURGER KING, POPEYES",Queens,Hamburgers,11366.0,40.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.721651063827,-73.80394651219,1,1,2025.0
+41362527,2025-06-12,CUSTOM BURGER/PHILLY CHEESE STEAK,Manhattan,Hamburgers,,7.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2025.0
+41380885,2024-10-16,MAMA TINA'S PIZZA,Manhattan,Pizza,,22.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2024.0
+41380885,2025-09-26,MAMA TINA'S PIZZA,Manhattan,Pizza,,33.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2025.0
+41396671,2024-09-27,STAND 324,Bronx,American,10451.0,0.0,A,No violations were recorded at the time of this inspection.,Cycle Inspection / Initial Inspection,40.829028434834,-73.928496459645,0,0,2024.0
+41406895,2025-09-22,SUN SAI GAI RESTAURANT,Manhattan,Chinese,10013.0,0.0,Z,Establishment re-opened by DOHMH.,Cycle Inspection / Reopening Inspection,40.717138793492,-73.998795131761,0,0,2025.0
+41416592,2019-06-05,SOUTH SHORE LITTLE LEAGUE,Staten Island,Pizza,10307.0,0.0,,No violations were recorded at the time of this inspection.,Cycle Inspection / Initial Inspection,40.509990207577,-74.23085280989,0,0,2019.0
+41441583,2025-02-20,KAPAMILYA,Queens,Filipino,11377.0,70.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.746339992501,-73.896122784181,1,0,2025.0
+41443837,2024-10-19,NEIR'S TAVERN,Queens,American,11421.0,0.0,,No violations were recorded at the time of this inspection.,Inter-Agency Task Force / Initial Inspection,40.690238354079,-73.863479474021,0,0,2024.0
+41482516,2022-04-28,SHANGERILA RESTAURANT,Bronx,Japanese,,21.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,0,2022.0
+41506131,2024-10-02,IL PUNTO RISTORANTE,Manhattan,Italian,,12.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2024.0
+41510846,2022-12-28,218 RESTAURANT,Manhattan,Chinese,,31.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2022.0
+41529148,2024-04-18,VINCENT'S,Manhattan,Italian,10013.0,11.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.717706933005,-73.997215071137,1,0,2024.0
+41541993,2022-01-11,ESTRELLITA POBLANA II,Bronx,Mexican,,15.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2022.0
+41543970,2021-12-22,PAUSE CAFE,Manhattan,Middle Eastern,,19.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,0,2021.0
+41543970,2022-02-28,PAUSE CAFE,Manhattan,Middle Eastern,,42.0,C,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,,,1,0,2022.0
+41543970,2023-05-25,PAUSE CAFE,Manhattan,Middle Eastern,,15.0,B,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,,,1,0,2023.0
+41548686,2022-02-09,ABA TURKISH RESTAURANT,Manhattan,Turkish,10019.0,43.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.767100568243,-73.983783401296,1,1,2022.0
+41561516,2024-11-12,OBAO,Manhattan,Thai,10036.0,60.0,C,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,40.760568844279,-73.991080304868,1,1,2024.0
+41571795,2025-10-15,KUM FUNG KITCHEN,Staten Island,Chinese,10304.0,26.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.621940942042,-74.072141768277,1,1,2025.0
+41576836,2023-01-26,DELI ON MADISON,Manhattan,American,10017.0,19.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.75688053465,-73.976310519699,1,0,2023.0
+41622930,2024-01-09,DUN-WELL DOUGHNUTS,Brooklyn,Donuts,11206.0,13.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.707593433177,-73.940324308256,1,1,2024.0
+41623317,2024-11-12,PRONTO PIZZA,Staten Island,Pizza,,9.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2024.0
+41627984,2016-02-14,JOUVAY NIGHT CLUB,Queens,Caribbean,11435.0,,,No violations were recorded at the time of this inspection.,Smoke-Free Air Act / Initial Inspection,40.696218749871,-73.804407456832,0,0,2016.0
+41645519,2024-11-04,NICK'S PIZZA,Bronx,Pizza,10469.0,27.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.870368405424,-73.846078096595,1,1,2024.0
+41645610,2024-08-30,SUBWAY,Brooklyn,Sandwiches,11226.0,12.0,A,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,40.639812338763,-73.948384250421,1,0,2024.0
+41656924,2023-11-21,TENZAN,Manhattan,Japanese,,12.0,A,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,,,1,1,2023.0
+41668282,2025-06-04,ROSEMARY'S,Manhattan,Italian,,24.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2025.0
+41685823,2023-02-17,ATOMIC WINGS,Manhattan,Chicken,10007.0,13.0,A,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,40.715494565459,-74.005205334775,1,0,2023.0
+41689789,2023-05-18,EGG ROLL CHINESE RESTAURANT,Brooklyn,Chinese,11207.0,11.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.682497205043,-73.909768521968,1,0,2023.0
+41711578,2021-08-26,MR. SIMI #8 KITCHEN,Brooklyn,Chinese,11214.0,31.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.605557733268,-74.008960128029,1,0,2021.0
+41720069,2023-01-10,D'ANGELO'S PIZZA,Queens,Pizza,11375.0,23.0,B,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,40.715009428517,-73.832074065603,1,0,2023.0
+50001285,2018-06-24,Y & B ENTERTAINMENT MANOR,Queens,Korean,,,,Violations were cited in the following area(s).,Smoke-Free Air Act / Initial Inspection,,,1,0,2018.0
+50001285,2019-06-28,Y & B ENTERTAINMENT MANOR,Queens,Korean,,34.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2019.0
+50001689,2024-04-04,DREDSURFER GRILL,Queens,Caribbean,11691.0,45.0,,Establishment Closed by DOHMH. Violations were cited in the following area(s) and those requiring immediate action were addressed.,Cycle Inspection / Re-inspection,40.595119257856,-73.750390511281,1,0,2024.0
+50001901,2025-05-27,DUNKIN,Manhattan,Donuts,10128.0,0.0,P,Establishment re-opened by DOHMH.,Cycle Inspection / Reopening Inspection,40.784876636139,-73.949546070015,0,0,2025.0
+50002807,2023-06-22,DUNKIN,Bronx,Donuts,10468.0,0.0,A,No violations were recorded at the time of this inspection.,Cycle Inspection / Initial Inspection,40.862691381938,-73.900940330303,0,0,2023.0
+50003350,2023-01-05,3-J RESTAURANT AND PIZZA,Bronx,Latin American,10455.0,,,Violations were cited in the following area(s).,Administrative Miscellaneous / Re-inspection,40.812394239758,-73.904411302372,1,0,2023.0
+50005277,2025-06-25,PIZZA VINO,Queens,Pizza,11430.0,11.0,A,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,40.648312826068,-73.788281497594,1,1,2025.0
+50006959,2024-10-19,BAM FISHER,Brooklyn,American,11217.0,0.0,,No violations were recorded at the time of this inspection.,Inter-Agency Task Force / Initial Inspection,40.685903942317,-73.978030508283,0,0,2024.0
+50011083,2022-02-10,SUBWAY,Manhattan,Sandwiches,10004.0,16.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.703087793856,-74.011029064387,1,0,2022.0
+50011694,2025-05-08,SWEET CHICK,Manhattan,Chicken,10002.0,12.0,A,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,40.721760306582,-73.987492308421,1,1,2025.0
+50014322,2022-05-10,CHIPOTLE MEXICAN GRILL,Brooklyn,Tex-Mex,11209.0,12.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.622023594486,-74.027074357184,1,1,2022.0
+50015990,2023-01-07,PIL PIL,Manhattan,Tapas,10075.0,49.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.773027605414,-73.956425729441,1,0,2023.0
+50018553,2023-08-09,TEXAS FRIED CHICKEN,Manhattan,Chicken,10026.0,0.0,,No violations were recorded at the time of this inspection.,Cycle Inspection / Initial Inspection,40.804204886391,-73.955509433435,0,0,2023.0
+50032708,2024-08-28,STARBUCKS,Queens,Coffee/Tea,11430.0,0.0,A,No violations were recorded at the time of this inspection.,Cycle Inspection / Initial Inspection,,,0,0,2024.0
+50033660,2022-04-21,RUSTY'S FLAVOR,Manhattan,Caribbean,,4.0,P,Establishment re-opened by DOHMH.,Cycle Inspection / Reopening Inspection,,,1,0,2022.0
+50034739,2023-10-05,ELLINGTON IN THE PARK,Manhattan,American,,75.0,N,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,0,2023.0
+50035271,2023-05-11,I BAKERY 18,Brooklyn,Bakery Products/Desserts,11204.0,25.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.615535212595,-73.993819177364,1,1,2023.0
+50037907,2025-08-07,BARRILES,Queens,Latin American,11372.0,38.0,C,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,,,1,0,2025.0
+50041617,2023-02-02,ITTADI GARDEN & GRILL,Queens,Bangladeshi,11372.0,27.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.747157090751,-73.892234586031,1,1,2023.0
+50043973,2024-01-03,NAYA EXPRESS,Manhattan,Mediterranean,10004.0,17.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.702533192425,-74.012561775828,1,1,2024.0
+50044258,2022-08-15,POPEYES,Bronx,Chicken,,9.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2022.0
+50044622,2025-02-01,Daily Burger,Manhattan,Hamburgers,10121.0,0.0,A,No violations were recorded at the time of this inspection.,Cycle Inspection / Initial Inspection,40.750654836632,-73.991944239076,0,0,2025.0
+50046460,2023-11-06,LIN'S GARDEN,Brooklyn,Chinese,11217.0,24.0,B,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,40.678521232789,-73.982276379676,1,1,2023.0
+50046479,2023-02-17,DUNKIN' / 'BASKIN ROBBINS,Manhattan,Donuts,10014.0,13.0,A,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,40.729127725398,-74.007042896912,1,1,2023.0
+50047488,2024-12-16,SPICE,Manhattan,Thai,10003.0,0.0,,Establishment re-opened by DOHMH.,Cycle Inspection / Reopening Inspection,40.734394861981,-73.991931779136,0,0,2024.0
+50048806,2025-05-17,WIN SON,Brooklyn,Asian/Asian Fusion,11206.0,0.0,,No violations were recorded at the time of this inspection.,Inter-Agency Task Force / Initial Inspection,40.707438457394,-73.943231579728,0,0,2025.0
+50049514,2021-09-03,BRASS RIZ & GRILL EXPRESS,Queens,Creole,,,,Violations were cited in the following area(s).,Administrative Miscellaneous / Initial Inspection,,,1,0,2021.0
+50049514,2023-06-22,BRASS RIZ & GRILL EXPRESS,Queens,Creole,,78.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2023.0
+50055139,2025-10-09,TIGER BOX,Brooklyn,Korean,11205.0,30.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.696214908945,-73.972693448472,1,1,2025.0
+50055392,2022-09-15,BRAVO AFRICAN RESTAURANT 2,Bronx,African,10467.0,45.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.882689279405,-73.863281665997,1,1,2022.0
+50056993,2025-06-27,CIVIC DELI,Manhattan,American,10013.0,,,No violations were recorded at the time of this inspection.,Administrative Miscellaneous / Initial Inspection,40.715821256441,-74.003538779306,0,0,2025.0
+50057641,2022-08-17,NORMA,Manhattan,Italian,10016.0,7.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.743459318157,-73.979783386973,1,1,2022.0
+50059256,2025-09-15,THE PIZZA PARLOR,Staten Island,Pizza,10312.0,0.0,,No violations were recorded at the time of this inspection.,Inter-Agency Task Force / Initial Inspection,40.540531481638,-74.177056033582,0,0,2025.0
+50061298,2025-01-14,ABIKO CURRY,Manhattan,Japanese,10001.0,15.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.747308389619,-73.985903129221,1,1,2025.0
+50061477,2024-09-20,CITI FIELD VIP LOUNGE,Queens,American,,0.0,A,No violations were recorded at the time of this inspection.,Cycle Inspection / Initial Inspection,,,0,0,2024.0
+50063114,2025-03-04,THE ROOF,Manhattan,American,,20.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2025.0
+50063280,2025-05-28,ENZO'S OF ARTHUR AVE,Bronx,Italian,10458.0,36.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,0,2025.0
+50066463,2024-03-28,CAFE 53,Manhattan,American,,13.0,A,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,,,1,1,2024.0
+50067032,2024-12-04,TAQUERIA ON TENTH,Manhattan,American,10001.0,18.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,2,0,2024.0
+50069362,2024-03-07,TEXAS CHICKEN & BURGERS,Manhattan,Chicken,,0.0,,Establishment re-opened by DOHMH.,Cycle Inspection / Reopening Inspection,,,0,0,2024.0
+50070149,2022-09-26,TEXAS CHICKEN & BURGER,Brooklyn,Chicken,11226.0,,,No violations were recorded at the time of this inspection.,Administrative Miscellaneous / Initial Inspection,40.642300078552,-73.957412260735,0,0,2022.0
+50071042,2022-11-21,CARIDAD RESTAURANT,Queens,Latin American,11421.0,23.0,B,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,40.692892421386,-73.854448006079,1,1,2022.0
+50071833,2022-05-11,XUN YU SI KAO NY,Brooklyn,Chinese,11220.0,,,Violations were cited in the following area(s).,Administrative Miscellaneous / Initial Inspection,40.638956220987,-74.009519514582,1,0,2022.0
+50072231,2023-12-20,POLONICA,Brooklyn,Polish,11209.0,24.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.62556907795,-74.030184690948,1,1,2023.0
+50073933,2025-03-11,LHASALINGFEN,Queens,Asian/Asian Fusion,11373.0,,,No violations were recorded at the time of this inspection.,Administrative Miscellaneous / Initial Inspection,40.74389194612,-73.884913928379,0,0,2025.0
+50084602,2023-04-24,SAN MARCOS CAFE,Bronx,Latin American,,24.0,B,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,,,1,1,2023.0
+50084602,2024-04-05,SAN MARCOS CAFE,Bronx,Latin American,,25.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,0,2024.0
+50089893,2022-07-07,BLVD BISTRO,Manhattan,Soul Food,,13.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2022.0
+50090040,2025-06-14,VIVA JUAREZ RESTAURANT,Queens,Mexican,11373.0,0.0,,No violations were recorded at the time of this inspection.,Inter-Agency Task Force / Initial Inspection,40.743375769074,-73.874297676591,0,0,2025.0
+50091299,2023-03-06,PHAYUL RESTAURANT,Queens,Asian/Asian Fusion,11372.0,28.0,B,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,40.747554444998,-73.891559049176,1,1,2023.0
+50093030,2023-06-27,DOMINO'S,Queens,Pizza,11433.0,0.0,A,No violations were recorded at the time of this inspection.,Cycle Inspection / Initial Inspection,40.696400357983,-73.783288583871,0,0,2023.0
+50097377,2024-04-04,BLOOM CAFE,Staten Island,American,10305.0,12.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.613938099334,-74.066013640576,1,1,2024.0
+50098716,2022-06-15,EATALY NY LLC (KIOSK),Manhattan,Pizza,,0.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2022.0
+50099398,2024-12-16,LECHONERA POLLO SABROSO DEL VALLE RESTAURANT,Bronx,Spanish,,37.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2024.0
+50100420,2023-03-08,SOHO DINER,Manhattan,American,10013.0,,,No violations were recorded at the time of this inspection.,Calorie Posting / Initial Inspection,40.721906385162,-74.004177657535,0,0,2023.0
+50100843,2025-07-17,SQUARE PIZZA,Manhattan,Pizza,10002.0,12.0,A,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,40.719978602979,-73.984617431286,1,1,2025.0
+50100867,2021-12-22,GONG CHA / POKE+,Manhattan,Coffee/Tea,10065.0,,,No violations were recorded at the time of this inspection.,Calorie Posting / Initial Inspection,40.767990846042,-73.963959821686,0,0,2021.0
+50102205,2022-06-01,CHUNG CHING,Bronx,Chinese,,42.0,,Violations were cited in the following area(s).,Pre-permit (Operational) / Initial Inspection,,,1,1,2022.0
+50103422,2025-04-14,FLIK INTERNATIONAL,Manhattan,American,,10.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2025.0
+50104962,2024-03-13,EMPANADAS RD,Bronx,Latin American,,16.0,B,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,,,1,0,2024.0
+50104980,2025-01-14,5 STAR PIZZA,Bronx,Pizza,10467.0,24.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.879186211627,-73.874622131045,1,0,2025.0
+50106008,2021-11-22,787 COFFEE,Manhattan,Coffee/Tea,10075.0,,,Violations were cited in the following area(s).,Administrative Miscellaneous / Initial Inspection,40.774622152293,-73.956016693691,1,0,2021.0
+50106949,2023-01-03,GUIRA & TAMBORA,Manhattan,Caribbean,,27.0,,Violations were cited in the following area(s).,Pre-permit (Operational) / Initial Inspection,,,1,1,2023.0
+50107045,2023-08-05,MAMA TACO,Manhattan,Tex-Mex,10034.0,,,No violations were recorded at the time of this inspection.,Smoke-Free Air Act / Initial Inspection,40.86938998294,-73.916615146727,0,0,2023.0
+50107047,2023-02-17,KING BARKA,Manhattan,Caribbean,,31.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2023.0
+50107047,2024-03-19,KING BARKA,Manhattan,Caribbean,,,,No violations were recorded at the time of this inspection.,Administrative Miscellaneous / Re-inspection,,,0,0,2024.0
+50107477,2025-09-03,THE CHICKEN SHACK,Queens,Chicken,11106.0,0.0,Z,Establishment re-opened by DOHMH.,Cycle Inspection / Reopening Inspection,40.759913443018,-73.920990536259,0,0,2025.0
+50107833,2021-08-30,FRESH IBAKERY,Brooklyn,Chinese,11214.0,,,No violations were recorded at the time of this inspection.,Administrative Miscellaneous / Initial Inspection,40.601756371663,-73.99352516503,0,0,2021.0
+50108252,2025-03-21,JOHNNY DELI & GROCERY,Queens,Spanish,11418.0,25.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.702165074727,-73.820190391864,1,1,2025.0
+50108893,2024-10-04,LIFE CAFE,Manhattan,Other,10010.0,0.0,,No violations were recorded at the time of this inspection.,Cycle Inspection / Initial Inspection,40.742313468454,-73.991429199103,0,0,2024.0
+50108971,2022-11-07,THE NUAA TABLE,Brooklyn,Thai,11238.0,38.0,,Violations were cited in the following area(s).,Pre-permit (Operational) / Initial Inspection,40.679503705375,-73.968705593608,1,1,2022.0
+50109862,2025-02-13,EAGLES BAR & GRILL,Queens,Mexican,11385.0,,,Violations were cited in the following area(s).,Smoke-Free Air Act / Initial Inspection,40.70344138623,-73.895439704453,1,0,2025.0
+50111311,2023-08-16,CANTINA TAQUERIA & TEQUILIA BAR,Manhattan,Mexican,,27.0,B,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,,,1,0,2023.0
+50111311,2025-05-14,CANTINA TAQUERIA & TEQUILIA BAR,Manhattan,Mexican,,,,Violations were cited in the following area(s).,Administrative Miscellaneous / Initial Inspection,,,1,0,2025.0
+50112010,2023-06-20,PANDA ABC,Brooklyn,Chinese,11203.0,21.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.641912337097,-73.9329496509,1,0,2023.0
+50112311,2023-05-22,POPEYES,Brooklyn,Chicken,11215.0,12.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.668358518161,-73.993616002759,1,1,2023.0
+50113015,2024-10-19,JERRELL'S BETR BRGR,Manhattan,Vegan,10013.0,0.0,,No violations were recorded at the time of this inspection.,Inter-Agency Task Force / Initial Inspection,40.723800252927,-74.004729762755,0,0,2024.0
+50114424,2025-10-14,DE ISLANDS,Queens,Caribbean,11422.0,35.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.667459244379,-73.737304015489,1,1,2025.0
+50115887,2025-05-22,TERIYAKI R US,Manhattan,Asian/Asian Fusion,10019.0,,,No violations were recorded at the time of this inspection.,Administrative Miscellaneous / Re-inspection,40.7598596835,-73.982334066518,0,0,2025.0
+50118395,2025-08-07,EL COMEDOR RESTAURANTE,Brooklyn,Latin American,11220.0,51.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.641568795983,-74.013977156892,1,0,2025.0
+50118549,2025-04-09,E&A'S BAKE N BREW,Queens,Coffee/Tea,11101.0,,,No violations were recorded at the time of this inspection.,Administrative Miscellaneous / Initial Inspection,40.743160853683,-73.936568040473,0,0,2025.0
+50118612,2022-09-13,AMY'S BREAD,Manhattan,Bakery Products/Desserts,10016.0,0.0,,No violations were recorded at the time of this inspection.,Pre-permit (Operational) / Compliance Inspection,40.745249038997,-73.980569585904,0,0,2022.0
+50118657,2025-09-27,YAYA TEA,Brooklyn,Asian/Asian Fusion,11201.0,0.0,,No violations were recorded at the time of this inspection.,Inter-Agency Task Force / Initial Inspection,40.68985672822,-73.979720371884,0,0,2025.0
+50118692,2022-10-26,BUBBY'S DINER,Queens,Bottled Beverages,11371.0,7.0,A,Violations were cited in the following area(s).,Pre-permit (Operational) / Initial Inspection,,,1,0,2022.0
+50119681,2025-06-18,PACRIM,Manhattan,Asian/Asian Fusion,10017.0,,,No violations were recorded at the time of this inspection.,Administrative Miscellaneous / Initial Inspection,40.754026849301,-73.968493587883,0,0,2025.0
+50121050,2023-01-23,STEAM,Manhattan,Asian/Asian Fusion,10011.0,,,No violations were recorded at the time of this inspection.,Administrative Miscellaneous / Initial Inspection,40.735654976226,-73.998065899608,0,0,2023.0
+50121215,2025-04-26,J'S KITCHEN NEW YORK,Manhattan,Japanese,10003.0,0.0,,No violations were recorded at the time of this inspection.,Inter-Agency Task Force / Initial Inspection,40.7320908592,-73.981894039686,0,0,2025.0
+50122073,2025-06-25,ARAMARK SERVICES,Manhattan,Fusion,,17.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2025.0
+50122076,2022-08-09,ARAMARK SERVICES INC,Manhattan,Fusion,,0.0,A,No violations were recorded at the time of this inspection.,Pre-permit (Operational) / Initial Inspection,,,0,0,2022.0
+50122417,2024-11-07,KINSHIP COFFEE,Queens,Coffee/Tea,11103.0,12.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.763422719285,-73.915358510686,1,1,2024.0
+50122470,2023-11-22,SEA TO SOUL,Manhattan,Soul Food,,,,Violations were cited in the following area(s).,Smoke-Free Air Act / Initial Inspection,,,1,0,2023.0
+50122709,2024-07-05,CARIBBEAN KRAVE,Manhattan,Caribbean,,17.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,0,2024.0
+50122846,2025-08-06,IPIZZANY,Manhattan,Pizza,10016.0,57.0,C,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,40.744677255478,-73.97596120472,1,1,2025.0
+50123805,2024-02-05,QK Restaurant Inc.,Queens,Chinese,11355.0,71.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.75003950242,-73.818519551091,1,1,2024.0
+50124193,2025-01-16,TONG,Queens,Bangladeshi,11432.0,38.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.707304619179,-73.804237742715,1,1,2025.0
+50124741,2024-04-23,BELLA PIZZA RESTAURANT,Queens,Pizza,11101.0,21.0,B,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,40.740894476293,-73.933138349813,1,1,2024.0
+50126220,2024-12-23,HARLEM CAFE,Manhattan,American,,12.0,A,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,,,1,1,2024.0
+50126843,2025-02-04,KRAZY CHICKEN AND WINGS,Brooklyn,American,11233.0,13.0,A,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,40.681783253828,-73.928820803386,1,0,2025.0
+50127279,2025-01-13,LA VILLA RESTAURANT,Bronx,Mexican,10463.0,25.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.87961706138,-73.906223657943,1,0,2025.0
+50128085,2025-06-10,MIKE'S COFFEE SHOP,Brooklyn,American,11205.0,,,No violations were recorded at the time of this inspection.,Administrative Miscellaneous / Initial Inspection,40.68974350885,-73.965397762618,0,0,2025.0
+50128104,2025-01-29,LIBERTY RESTAURANT,Queens,Fusion,11419.0,,,No violations were recorded at the time of this inspection.,Trans Fat / Re-inspection,40.689365145503,-73.816081875288,0,0,2025.0
+50128207,2024-01-16,OCKY FRIED CHICKEN & PIZZA,Bronx,Chicken,10451.0,50.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.818663793272,-73.927705571766,1,1,2024.0
+50128307,2022-10-19,HAVELI INDIAN RESTAURANT & LOUNGE,Queens,Indian,,28.0,,Violations were cited in the following area(s).,Pre-permit (Non-operational) / Initial Inspection,,,1,0,2022.0
+50128307,2023-04-06,HAVELI INDIAN RESTAURANT & LOUNGE,Queens,Indian,,10.0,A,Violations were cited in the following area(s).,Pre-permit (Operational) / Initial Inspection,,,1,1,2023.0
+50129283,2025-04-09,HELLO BANGLADESH,Queens,Bangladeshi,11106.0,24.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.756892068051,-73.930404237104,1,1,2025.0
+50129374,2024-01-25,ROYAL QUEEN,Queens,Chinese,11354.0,50.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.759777908235,-73.829235428489,1,1,2024.0
+50130050,2025-05-17,SCARR'S PIZZA,Manhattan,Pizza,10002.0,0.0,,No violations were recorded at the time of this inspection.,Inter-Agency Task Force / Initial Inspection,40.715735905626,-73.991465095733,0,0,2025.0
+50130631,2024-07-02,Yong Sheng Garden Chinese Restaurant,Manhattan,Chinese,,82.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2024.0
+50131689,2025-09-17,SIDE BAR,Manhattan,Bottled Beverages,10001.0,11.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,0,2025.0
+50132255,2023-06-13,THE CHUBBY CRAB,Manhattan,Seafood,10002.0,19.0,,Violations were cited in the following area(s).,Pre-permit (Operational) / Initial Inspection,40.717248448376,-73.994289492293,1,1,2023.0
+50132762,2023-06-28,MIKADO,Queens,Japanese,11418.0,27.0,B,Violations were cited in the following area(s).,Pre-permit (Operational) / Re-inspection,40.707400728788,-73.835736242986,1,0,2023.0
+50132816,2025-02-14,NERO.LAB CAFE,Manhattan,Italian,10022.0,12.0,A,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,40.762501364873,-73.974286993203,1,0,2025.0
+50133259,2023-05-24,PAIN DE VIE,Queens,Caribbean,11429.0,,,No violations were recorded at the time of this inspection.,Administrative Miscellaneous / Re-inspection,40.713191396399,-73.735470988375,0,0,2023.0
+50134539,2024-10-16,T.CAFE / BAKERY,Manhattan,Coffee/Tea,10038.0,0.0,A,No violations were recorded at the time of this inspection.,Cycle Inspection / Initial Inspection,40.706373778571,-74.002881837307,0,0,2024.0
+50134692,2025-09-13,MILAGRO TEQUILA BAR,Queens,American,,0.0,A,No violations were recorded at the time of this inspection.,Cycle Inspection / Initial Inspection,,,0,0,2025.0
+50135484,2025-06-07,WONDER,Manhattan,Other,10011.0,0.0,,No violations were recorded at the time of this inspection.,Inter-Agency Task Force / Initial Inspection,40.743312714839,-73.993803668759,0,0,2025.0
+50135628,2024-10-11,CROWN CHICKEN & PIZZA,Brooklyn,Pizza,11236.0,20.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.648256786953,-73.897548170659,1,0,2024.0
+50136527,2025-09-16,CUBAN SHACK,Brooklyn,Spanish,11201.0,27.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.68824656389,-73.986662068705,1,0,2025.0
+50136993,2025-07-17,CAFFE CORRETTO,Brooklyn,Coffee/Tea,11204.0,,,No violations were recorded at the time of this inspection.,Smoke-Free Air Act / Re-inspection,40.616421085504,-73.985970498267,0,0,2025.0
+50137300,2024-06-15,BARK BARBECUE,Brooklyn,Barbecue,11201.0,0.0,,No violations were recorded at the time of this inspection.,Inter-Agency Task Force / Initial Inspection,40.703293906326,-73.992047363499,0,0,2024.0
+50137981,2025-09-12,CENTRAL PARK BOATHOUSE CAFE,Manhattan,Continental,,32.0,,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2025.0
+50139266,2025-06-16,ADRIENNES,Queens,American,11693.0,0.0,,No violations were recorded at the time of this inspection.,Cycle Inspection / Initial Inspection,40.597585335457,-73.819770927129,0,0,2025.0
+50140575,2025-03-04,POKEBAB,Brooklyn,Hawaiian,11211.0,13.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,40.716944704529,-73.958659430619,1,1,2025.0
+50143094,2024-01-02,TATOS PIZZA,Brooklyn,Pizza,11214.0,13.0,A,Violations were cited in the following area(s).,Pre-permit (Operational) / Initial Inspection,40.608258944946,-74.001382969819,1,1,2024.0
+50144257,2023-12-05,FOODMANDU,Queens,Asian/Asian Fusion,11104.0,13.0,N,Violations were cited in the following area(s).,Pre-permit (Non-operational) / Initial Inspection,40.743467070595,-73.921338518141,1,1,2023.0
+50144537,2024-08-22,Sesame Bakery,Brooklyn,Jewish/Kosher,11219.0,31.0,C,Violations were cited in the following area(s).,Cycle Inspection / Re-inspection,40.634284776915,-73.992895093271,1,1,2024.0
+50145501,2024-01-19,AXZO CAFE,Brooklyn,Coffee/Tea,11232.0,0.0,,No violations were recorded at the time of this inspection.,Pre-permit (Non-operational) / Re-inspection,40.655642097468,-74.003045423732,0,0,2024.0
+50145538,2024-02-29,BEST WOK NO1,Brooklyn,Chinese,,12.0,A,Violations were cited in the following area(s).,Pre-permit (Operational) / Initial Inspection,,,1,0,2024.0
+50145538,2025-06-09,BEST WOK NO1,Brooklyn,Chinese,,13.0,A,Violations were cited in the following area(s).,Cycle Inspection / Initial Inspection,,,1,1,2025.0
+50146177,2025-08-14,BAHNMEBOIS,Queens,Asian/Asian Fusion,11101.0,,,No violations were recorded at the time of this inspection.,Administrative Miscellaneous / Initial Inspection,40.748029834721,-73.94693224445,0,0,2025.0
+50146943,2024-09-26,EL HUASTECO MEXICAN FOOD,Brooklyn,Mexican,11225.0,47.0,,Violations were cited in the following area(s).,Pre-permit (Operational) / Initial Inspection,,,2,1,2024.0
+50148378,2025-07-28,G'S CHEESESTEAKS,Manhattan,Other,10009.0,30.0,N,Violations were cited in the following area(s).,Pre-permit (Operational) / Initial Inspection,40.721702186201,-73.983671830786,1,1,2025.0
+50150789,2024-09-02,LATOYA'S KITCHEN,Manhattan,Caribbean,,0.0,,No violations were recorded at the time of this inspection.,Inter-Agency Task Force / Initial Inspection,,,0,0,2024.0
+50150789,2025-09-01,LATOYA'S KITCHEN,Manhattan,Caribbean,,0.0,,No violations were recorded at the time of this inspection.,Inter-Agency Task Force / Initial Inspection,,,0,0,2025.0
+50155115,2025-05-15,MOKA & CO,Manhattan,Coffee/Tea,10016.0,0.0,,Establishment re-opened by DOHMH.,Pre-permit (Operational) / Reopening Inspection,40.742677159922,-73.980353812172,0,0,2025.0
+50157280,2024-09-27,MIMI'S,Brooklyn,Mediterranean,11218.0,0.0,Z,Establishment re-opened by DOHMH.,Pre-permit (Operational) / Reopening Inspection,40.63941065045,-73.968450627873,0,0,2024.0
+50159852,2025-10-09,DAILY GROCERY,Bronx,Other,,27.0,,Violations were cited in the following area(s).,Pre-permit (Operational) / Compliance Inspection,,,1,1,2025.0
+50164305,2025-09-13,CERES,Manhattan,Pizza,10013.0,0.0,,No violations were recorded at the time of this inspection.,Inter-Agency Task Force / Initial Inspection,40.719738031861,-73.996194054618,0,0,2025.0
+50164916,2025-07-11,OLIVE & GARLIC MARKET,Brooklyn,American,11201.0,0.0,Z,Establishment re-opened by DOHMH.,Pre-permit (Operational) / Reopening Inspection,40.694620528563,-73.99367117713,0,0,2025.0
+50167477,2025-09-29,KOFEE,Bronx,Coffee/Tea,10451.0,0.0,,Establishment re-opened by DOHMH.,Pre-permit (Operational) / Reopening Inspection,40.808348325003,-73.931004061248,0,0,2025.0

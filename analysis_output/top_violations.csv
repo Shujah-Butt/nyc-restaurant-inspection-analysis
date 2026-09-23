@@ -1,0 +1,15 @@
+violation_code,canonical,critical_flag,n
+02B,Hot TCS food item not held at or above 140 °F.,Critical,52
+09B,Thawing procedure improper.,Not Critical,18
+04M,Live roaches in facility's food or non-food area.,Critical,16
+04L,Evidence of mice or live mice in establishment's food or non-food areas.,Critical,13
+08A,"Establishment is not free of harborage or conditions conducive to rodents, insects or other pests.",Not Critical,9
+04A,Food Protection Certificate (FPC) not held by manager or supervisor of food operations.,Critical,6
+06F,"Wiping cloths not stored clean and dry, or in a sanitizing solution, between uses.",Critical,5
+09E,Wash hands sign not posted near or above hand washing sink.,Not Critical,5
+20-06,Current letter grade or Grade Pending card not posted,Not Critical,3
+08C,"Pesticide not properly labeled or used by unlicensed individual. Pesticide, other toxic chemical improperly used/stored. Unprotected, unlocked bait station used.",Not Critical,2
+10G,"Dishwashing and ware washing: Cleaning and sanitizing of tableware, including dishes, utensils, and equipment deficient.",Not Critical,2
+10J,Hand wash sign not posted,Not Critical,2
+06D,"Food contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occurred.",Critical,2
+04N,"Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment’s food and/or non-food areas. FRSA flies include house flies, blow flies, bottle flies, flesh flies, drain flies, Phorid flies and fruit flies.",Critical,2
